@@ -1,2 +1,2 @@
 # Tower-of-Hanoi-Visualizer
-Python Project 8
+A simple web application that shows a visual depiction of the classic Tower of Hanoi problem. 
